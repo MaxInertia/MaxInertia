@@ -24,6 +24,6 @@
 [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?logo=Youtube&logoColor=FFFFFF&style=plastic&style=for-the-badge)](https://www.youtube.com/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=FFFFFF&style=plastic&style=for-the-badge)](https://discord.com/)
 [![Github](https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=FFFFFF&style=plastic&style=for-the-badge)](https://github.com/MaxInertia)
-[![Steam](https://img.shields.io/badge/-Steam-000000?logo=Github&logoColor=FFFFFF&style=plastic&style=for-the-badge)](https://github.com/MaxInertia/MaxInertia)
+[![Steam](https://img.shields.io/badge/-Steam-000000?logo=Github&logoColor=FFFFFF&style=plastic&style=for-the-badge)](https://store.steampowered.com/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=FFFFFF&style=plastic&style=for-the-badge)](https://twitter.com/)
 [![Mini](https://img.shields.io/badge/-Mini%20Cooper%20S-000000?logo=Mini&logoColor=FFFFFF&style=plastic&style=for-the-badge)](https://mini.ca/)
