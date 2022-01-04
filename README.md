@@ -14,8 +14,6 @@
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=000000&style=plastic&style=for-the-badge)](https://firebase.google.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/)
 
-
-
 ### _____ _ _____ __ ____
 
 [![Chrome](https://img.shields.io/badge/-Chrome-000000?logo=Google%20Chrome&logoColor=FFFFFF&style=plastic&style=for-the-badge)](https://www.google.ca/intl/en_ca/chrome/)
