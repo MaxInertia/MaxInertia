@@ -19,7 +19,7 @@
 [![Chrome](https://img.shields.io/badge/-Chrome-000000?logo=Google%20Chrome&logoColor=FFFFFF&style=plastic&style=for-the-badge)](https://www.google.ca/intl/en_ca/chrome/)
 [![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=WebStorm&logoColor=FFFFFF&style=plastic&style=for-the-badge)](https://www.jetbrains.com/webstorm/)
 [![Goland](https://img.shields.io/badge/-Goland-000000?logo=Goland&logoColor=FFFFFF&style=plastic&style=for-the-badge)](https://www.jetbrains.com/go/)
-[![Roam Research](https://img.shields.io/badge/-Roam%20Research-343A40?logo=Roam%20Research&logoColor=FFFFFF&style=plastic&style=for-the-badge)](https://roamresearch.com/)
+[![Heptabase](https://img.shields.io/badge/-Heptabase-000000)](https://heptabase.com/)
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=Slack&logoColor=FFFFFF&style=plastic&style=for-the-badge)](https://slack.com/)
 [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?logo=Youtube&logoColor=FFFFFF&style=plastic&style=for-the-badge)](https://www.youtube.com/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=FFFFFF&style=plastic&style=for-the-badge)](https://discord.com/)
