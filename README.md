@@ -1,3 +1,3 @@
-- Intermediate software developer
+- Software developer
 - Passionate about type safety
 - Likes using bullet points
